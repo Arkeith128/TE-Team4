@@ -117,7 +117,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
     </ul>
     <h2>Download the &AWS; Reference Application</h2>
     <ul>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/referenceapp/">Explore a fully-featured reference application using the &AWS; SDK for Java</a></li>
+      <li><a href="https://github.com/Arkeith128/TE-Team4">Github Repo</a></li>
     </ul>
     <h2>&AWS; Toolkit for Eclipse</h2>
     <ul>
