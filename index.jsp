@@ -119,7 +119,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
     <ul>
       <li><a href="https://github.com/Arkeith128/TE-Team4">Github Repo</a></li>
     </ul>
-    <h2>&AWS; Toolkit for Eclipse</h2>
+    <h2>Powerpoint</h2>
     <ul>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipse/">Developers may build and deploy &AEBllong; applications directly from Eclipse</a></li>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipsesc/">Get started with Eclipse and A&AEBllong; by watching this video</a></li>
