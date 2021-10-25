@@ -125,9 +125,9 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
       <li><a href="https://github.com/Arkeith128/TE-Team4/wiki">View our GitHub Wiki and SOP lists!</a></li>
       <li><a href="https://www.boozallen.com/">Think this is cool? Join the cause!</a></li>
     </ul>
-    <h2>Thinking of buying a new House? Check rates through our partner Website. No credit run required.</h2>
+    <h2>Thinking of buying a new house? Check rates through our partner Website. No credit run required.</h2>
     <ul>
-      <li><a href="https://csw-loan-calc.netlify.app/">Check rates for FREE!</a></li>
+      <li><a href="https://csw-loan-calc.netlify.app/">Click here to check rates for FREE! Mi Casa Su Casa</a></li>
     </ul>
       
   </div>
