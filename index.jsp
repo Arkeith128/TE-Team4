@@ -34,7 +34,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
   <title>Welcome, comrades!</title>
   <style>
   body {
-    color: #ffffff;
+    color: #000000;
     background-color: #c7c7c7;
     font-family: Arial, sans-serif;
     font-size:14px;
