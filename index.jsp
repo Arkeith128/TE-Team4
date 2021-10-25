@@ -14,7 +14,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 	}
         writer.flush();
         writer.close();
-	
+
 } else {
 %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -31,7 +31,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
     or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
   -->
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Welcome!!!!!</title>
+  <title>Welcome comrades!</title>
   <style>
   body {
     color: #ffffff;
@@ -106,24 +106,24 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>I want to go home</h1>
-    <p>Team 4 Rulez</p>
+    <h1>Team Four Project</h1>
+    <p>Team Four Rulez</p>
   </div>
-  
-  <div class="linksColumn"> 
+
+  <div class="linksColumn">
     <h2>Hello world?</h2>
     <ul>
-    
+
     </ul>
-    <h2>Download the &AWS; Reference Application</h2>
+    <h2>Want to see our code?</h2>
     <ul>
       <li><a href="https://github.com/Arkeith128/TE-Team4">Github Repo</a></li>
     </ul>
-    <h2>Powerpointssssss</h2>
+    <h2>Team Four Links</h2>
     <ul>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipse/">Developers may build and deploy &AEBllong; applications directly from Eclipse</a></li>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipsesc/">Get started with Eclipse and A&AEBllong; by watching this video</a></li>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/docs/">View all &AEBllong; documentation</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1-5xOszvyGHkCS0g6kG7efAQ0j-kbKbj9fw2MOBbEnjk/edit#slide=id.ge9090756a_1_232">See our presentation here!</a></li>
+      <li><a href="https://github.com/Arkeith128/TE-Team4/wiki">View our GitHub Wiki and SOP lists!</a></li>
+      <li><a href="https://www.boozallen.com/">Think this is cool? Join the cause!</a></li>
     </ul>
   </div>
 </script>
