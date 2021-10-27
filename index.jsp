@@ -31,7 +31,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
     or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
   -->
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Welcome, comrades!</title>
+  <title>Welcome, Comrades!</title>
   <style>
   body {
     color: #000000;
@@ -106,8 +106,8 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Team Four Project</h1>
-    <p></p><p></p>
+    <h1>Team Four Rulez!!</h1>
+    <p>No, We really do</p>
   </div>
 
   <div class="linksColumn">
