@@ -106,8 +106,8 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Team Four Rulez!!</h1>
-    <p>No, We really do</p>
+    <h1>Team Four Project</h1>
+    <p></p>
   </div>
 
   <div class="linksColumn">
